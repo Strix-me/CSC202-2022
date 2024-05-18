@@ -1,1 +1,1 @@
-10
+console.log(basket); //Prints out the array literal [ ] 
